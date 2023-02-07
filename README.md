@@ -7,4 +7,4 @@ I learnt the fundamentals of HTML and CSS (you can find some of my works on my C
 
 Fascinated by programming and IT, I'm really curious about exploring new concepts and discovering languages and ways of coding.
 
-Don't hesitate to contact me if you have suggestions/questions.
+Don't hesitate to contact me if you have questions or suggestions.
